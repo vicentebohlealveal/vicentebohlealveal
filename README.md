@@ -6,12 +6,6 @@ I'm interested in R&D, instrumentation and robotics, especially for aerospace, e
 
 **[▶ Portfolio](https://vicentebohlealveal.github.io/vicente-bohle-software-portfolio/)** · [LinkedIn](https://www.linkedin.com/in/vicente-bohle-alveal-b38317203/)
 
-### Experience
-
-- **Sun & Play** — Internship, technology development (2024–2025): wildfire monitoring and early-warning systems integrating sensing, communications and energy autonomy.
-- **Department of Electronic Engineering, UTFSM** — Technology demonstrators and event coordination (2023–present): electronics, solar, robotics and automation demos; teams of up to 25 people.
-- **Kong3D** — Founder (2020–present): 3D-printing business with 70+ orders a year for university departments, research centers and companies.
-
 ### Featured
 
 | | |
